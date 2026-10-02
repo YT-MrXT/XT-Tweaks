@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="XT Optimizer" width="130">
+  <img src="XT-Optimizer.ico" alt="XT Optimizer" width="130">
 </p>
 
 <h1 align="center">XT Optimizer</h1>
@@ -122,6 +122,12 @@ Não há garantias. O ganho depende do teu PC. Os maiores ganhos costumam vir de
 ## ⚠️ Aviso
 
 Este projeto altera definições do Windows. Foi feito com cuidado e inclui backups, mas **o uso é por tua conta e risco**. Lê as descrições antes de aplicar e, se tiveres dúvidas, deixa as opções marcadas como *Moderado* desativadas. O autor não se responsabiliza por problemas causados pelo uso do programa.
+
+---
+
+## 📄 Licença
+
+Distribuído sob a licença **MIT**. Vê o ficheiro [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
