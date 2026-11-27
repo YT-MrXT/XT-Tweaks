@@ -1,21 +1,86 @@
-MIT License
+Copyright (c) MrXT. All rights reserved.
 
-Copyright (c) 2026 YT-MrXT
+PROPRIETARY LICENSE — NO PERMISSION GRANTED
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository and everything in it, including but not limited to all source
+code, scripts, configuration files, database schemas, assets, images, text,
+documentation and any other related material (together, the "Software"), is
+the exclusive property of MrXT (the "Owner").
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+NO LICENSE OR RIGHT IS GRANTED TO ANY PERSON OR ENTITY. Without the Owner's
+prior written permission, you may NOT:
+
+  1. use, run, host, deploy or operate the Software, in whole or in part;
+  2. copy, reproduce, fork, mirror or redistribute the Software;
+  3. modify, adapt, translate or create derivative works based on the
+     Software;
+  4. publish, sublicense, sell, rent, lease or otherwise commercialize the
+     Software;
+  5. reverse engineer, decompile or extract code, data or assets from the
+     Software;
+  6. use the Software, or any part of it, to train or fine-tune machine
+     learning or artificial intelligence models.
+
+Viewing the Software on a platform where it is hosted does not grant any of
+the rights above. Any rights that the terms of service of a hosting platform
+may give its users (for example, to view or fork a repository on that
+platform) apply only within that platform's own features and do not give
+anyone the right to use the Software.
+
+To request permission, contact the Owner. Permission is valid only if it is
+given in writing by the Owner.
+
+Third-party libraries and dependencies used by the Software remain subject to
+their own respective licenses. This notice does not change those licenses.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+OWNER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+--------------------------------------------------------------------------
+
+VERSÃO EM PORTUGUÊS (cortesia — em caso de conflito, prevalece a versão em
+inglês)
+
+Copyright (c) MrXT. Todos os direitos reservados.
+
+LICENÇA PROPRIETÁRIA — NENHUMA PERMISSÃO CONCEDIDA
+
+Este repositório e tudo o que contém — incluindo, entre outros, todo o código-
+fonte, scripts, ficheiros de configuração, esquemas de base de dados, imagens,
+textos, documentação e restante material relacionado (em conjunto, o
+"Software") — é propriedade exclusiva de MrXT (o "Titular").
+
+NENHUMA LICENÇA OU DIREITO É CONCEDIDO A QUALQUER PESSOA OU ENTIDADE. Sem
+autorização prévia e por escrito do Titular, não podes:
+
+  1. usar, executar, alojar, instalar ou operar o Software, no todo ou em
+     parte;
+  2. copiar, reproduzir, fazer fork, espelhar ou redistribuir o Software;
+  3. modificar, adaptar, traduzir ou criar obras derivadas do Software;
+  4. publicar, sublicenciar, vender, alugar, ceder ou comercializar o
+     Software;
+  5. fazer engenharia inversa, descompilar ou extrair código, dados ou
+     recursos do Software;
+  6. usar o Software, ou qualquer parte dele, para treinar ou ajustar modelos
+     de aprendizagem automática ou de inteligência artificial.
+
+Ver o Software numa plataforma onde esteja alojado não concede nenhum dos
+direitos acima. Quaisquer direitos que os termos de serviço de uma plataforma
+dêem aos seus utilizadores (por exemplo, ver ou fazer fork de um repositório
+nessa plataforma) aplicam-se apenas dentro das funcionalidades da própria
+plataforma e não dão a ninguém o direito de usar o Software.
+
+Para pedir autorização, contacta o Titular. A autorização só é válida se for
+dada por escrito pelo Titular.
+
+As bibliotecas e dependências de terceiros usadas pelo Software continuam
+sujeitas às respetivas licenças. Este aviso não as altera.
+
+O SOFTWARE É FORNECIDO "TAL COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA
+OU IMPLÍCITA. EM CASO ALGUM O TITULAR SERÁ RESPONSÁVEL POR QUALQUER
+RECLAMAÇÃO, DANO OU OUTRA RESPONSABILIDADE DECORRENTE DO SOFTWARE OU DA SUA
+UTILIZAÇÃO.
